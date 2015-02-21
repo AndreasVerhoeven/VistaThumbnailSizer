@@ -1,0 +1,5 @@
+EXPORTS
+	StartHook
+	StopHook
+	IsHookRunning
+	SetFadeAnim

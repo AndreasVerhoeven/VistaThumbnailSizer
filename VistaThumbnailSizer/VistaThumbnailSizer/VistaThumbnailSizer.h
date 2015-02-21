@@ -1,0 +1,1 @@
+// VistaThumbnailSizer.h
